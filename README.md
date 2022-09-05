@@ -6,9 +6,9 @@ I am a tech enthusiast who is inquisitive as well. I strongly opine that empathy
 
 Well, currently I am a beginner-level MERN stack developer with the following skills:
 Computer Science Fundamentals: DBMS, OOPs, Operating System.
-Good at : C, C++, Data structures and algorithms, HTML, CSS, JavaScript.
-Decent at : BootStrap, Python.
-Familiar with : Machine Learning, and Java.
+- Good at : C, C++, Data structures and algorithms, HTML, CSS, JavaScript.
+- Decent at : BootStrap, Python.
+- Familiar with : Machine Learning, and Java.
 
 I am a passionate advocate of diversity in tech and equal opportunities for underrepresented communities like women and those belonging to LGBTQ communities. ♀️ 🏳️‍🌈 I am a member of non-profits striving towards achieving this goal like Women Who Code(WWC) and Anita B.org. 
 
