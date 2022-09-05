@@ -12,7 +12,7 @@ Computer Science Fundamentals: DBMS, OOPs, Operating System.
 
 I am a passionate advocate of diversity in tech and equal opportunities for underrepresented communities like women and those belonging to LGBTQ communities. ♀️ 🏳️‍🌈 I am a member of non-profits striving towards achieving this goal like Women Who Code(WWC) and Anita B.org. 
 
-Apart from coding, one could find me watching Ted Talks, reading murder mysteries, enjoying morning walks, and drooling on coffee☕️.
+Apart from coding, one could find me watching Ted Talks, reading murder mysteries, enjoying morning walks, and drooling over coffee☕️.
 
 
 
