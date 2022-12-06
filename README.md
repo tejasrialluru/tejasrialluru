@@ -4,7 +4,7 @@ Hi 👋,
 I am a Junior at Mahindra University, majoring in computer science and engineering. 👩‍🎓
 I am a tech enthusiast who is inquisitive as well. I strongly opine that empathy clubbed with innovation and technology can transform the world into a better place.💻
 
-Well, currently I am a beginner-level MERN stack developer with the following skills:
+Well, currently I am a beginner-level full stack developer with the following skills:
 Computer Science Fundamentals: DBMS, OOPs, Operating System.
 - Good at : C, C++, Data structures and algorithms, HTML, CSS, JavaScript.
 - Decent at : BootStrap, Python.
