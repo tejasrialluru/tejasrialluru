@@ -18,5 +18,5 @@ Apart from coding, one could find me watching Ted Talks, reading murder mysterie
 
 ![image](https://user-images.githubusercontent.com/78372756/188500526-f7b54d26-bc77-41af-9674-d773acad15cb.png)
 ![image](https://user-images.githubusercontent.com/78372756/188500958-554eef58-5b0c-43db-9a67-84987a1b40db.png)
-![image](https://user-images.githubusercontent.com/78372756/188500502-2ee6f622-fcc7-4f64-b9bc-22ab7d837a86.png)
+
 
